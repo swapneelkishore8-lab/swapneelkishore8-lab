@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am btech computer science student working on new technologies Enthusiasts about AI . I am a Aspiring Java developer along with Ai power i can Build Ai powerd web apllication and i am also very good with making product with Ai which is not only be a app it can stadout in market i also refer me asa product manger 
+I am a B.Tech Computer Science student passionate about building AI-powered web applications and scalable backend systems. My core focus is on becoming a Java Backend Developer, while leveraging AI tools and Python frameworks to rapidly develop real-world products.
+
+I don’t just code—I focus on building products that solve real problems and stand out in the market. With a strong product mindset, I approach development like a Product Manager, combining technical skills with user-centric thinking.
+
+Currently, I am working on Java, DSA, full-stack development, and AI integration to become an industry-ready developer capable of building and scaling impactful applications.
 
 
 ## 🌐 Socials:
